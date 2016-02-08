@@ -775,7 +775,7 @@ zh_CN:
       title_placeholder: "用简要的一句话解释要讨论什么"
       edit_reason_placeholder: "编辑理由"
       show_edit_reason: "（添加编辑理由）"
-      reply_placeholder: "正文。可拖拽或粘贴图片。"
+      reply_placeholder: "此处为编辑窗口，可拖拽或粘贴图片。右侧为预览窗口。"
       view_new_post: "浏览你的新帖子。"
       saving: "保存中"
       saved: "已保存！"
@@ -1356,7 +1356,7 @@ zh_CN:
     category:
       can: '能够&hellip; '
       none: '（未分类）'
-      all: '切换版块'
+      all: '全部帖子'
       choose: '选择版块&hellip;'
       edit: '编辑'
       edit_long: "编辑"
