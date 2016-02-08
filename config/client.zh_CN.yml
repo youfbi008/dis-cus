@@ -316,7 +316,7 @@ zh_CN:
     categories:
       all: "切换版块"
       all_subcategories: "全部"
-      no_subcategory: "无"
+      no_subcategory: "精华"
       category: "版块"
       category_list: "显示版块列表"
       reorder:
